@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romelmahmud
 - 👀 I’m interested in ... React, NodeJs, MongoDb
-- 🌱 I’m currently learning ... Redux
+- 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ... Full stack Project
 - 📫 How to reach me ... romelmahmud@outlook.com
 
